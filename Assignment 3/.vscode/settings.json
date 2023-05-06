@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}

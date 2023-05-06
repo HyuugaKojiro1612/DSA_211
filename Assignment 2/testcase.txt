@@ -1,0 +1,23 @@
+INSERT br number true
+INSERT phf (string,number,number)->string false
+BEGIN
+END
+LOOKUP phf
+LOOKUP phf
+BEGIN
+BEGIN
+INSERT uLScye number true
+END
+BEGIN
+LOOKUP br
+END
+LOOKUP phf
+BEGIN
+INSERT tsk10 number false
+END
+ASSIGN br uLScye
+BEGIN
+BEGIN
+LOOKUP uLScye
+BEGIN
+ASSIGN argP phf(br,tsk10,uLScye)
